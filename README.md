@@ -51,7 +51,7 @@ git clone https://github.com/ind3xzer0/Ind3xzer0-Stealer.git
 ```
 
 ```
-cd Ind3xzerr0-Stealer
+cd Ind3xzer0-Stealer
 ```
 
 ```
